@@ -1,0 +1,1 @@
+Get-Content lala | python.exe .\stdin.py
